@@ -1,0 +1,8 @@
+name: trievo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+# Activate this environment, then install CUDA wheels and requirements.txt.
+# Keep environments and datasets outside the OS system drive on Windows.

@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-29",
+  "files": [
+    "torch\\kernels\\abs_kernel_vectorized4_arch8.6_nvrtc12.1_sass_45424_d1cdad5e0b820da49319252790a0efcfaefb1b05_tmp_28996",
+    "torch\\kernels\\abs_kernel_vectorized4_arch8.6_nvrtc12.1_sass_45424_d1cdad5e0b820da49319252790a0efcfaefb1b05_tmp_33600"
+  ],
+  "file_count": 2,
+  "bytes": 26672,
+  "recycle_bin": true
+}

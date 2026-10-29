@@ -1,0 +1,38 @@
+# Python and editors
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.idea/
+.vscode/
+# Experiment data and artifacts
+dataset/
+datasets/
+checkpoints/
+sam2_checkpoint/
+outputs/
+logs/
+splits/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.log
+*.zip
+*.tar
+*.tar.gz
+# Credentials and machine-specific settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*_pass.txt
+.DS_Store
+Thumbs.db
